@@ -1,0 +1,21 @@
+img {
+    width: 30px;
+    height: 20px;
+}
+.botonRojo {
+    background-color: brown;
+    color: aqua;
+    font-weight: 500px;
+}
+
+.botonAzul {
+    background-color: blue;
+    color: rgb(231, 238, 238);
+    font-weight: 600;
+}
+
+.moverBoton {
+    position: relative;
+    left: 800px;
+    bottom: 80px;
+}
